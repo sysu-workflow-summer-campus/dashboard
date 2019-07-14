@@ -38,9 +38,9 @@
 
 这一部分是为了确保您已经掌握了kubernetes官方提供的sdk的基本操作，在这一部分中，我们将会给出一个样例，告诉你们如何去调用接口以完成操作，后续会提出扩展要求，请根据题目要求完成任务并提交
 
-- python sample
+- [python sample](https://github.com/sysu-workflow-summer-campus/python-demo)
 
-使用python语言调用kubernetes接口并完成获取pods的操作
+使用python语言调用kubernetes接口并完成获取指定namespace下所有pods及相关信息的操作
 
 - [golang sample](https://github.com/sysu-workflow-summer-campus/golang-demo)
 
